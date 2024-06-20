@@ -20,8 +20,11 @@
 </root>
 </pre>
 ]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
-        <tag>前端</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -58,6 +61,9 @@
 </blockquote>
 <p><a href="https://panjiachen.github.io/vue-element-admin-site/zh/guide/" title="vue-element-admin">vue-element-admin</a></p>
 ]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>工具</tag>
       </tags>
@@ -112,7 +118,7 @@
 </ul>
 ]]></content>
       <tags>
-        <tag>前端</tag>
+        <tag>vue</tag>
       </tags>
   </entry>
 </search>
